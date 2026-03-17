@@ -1,0 +1,16 @@
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\repository\ShoppingCartRepository.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\dto\LoginRequest.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\config\SecurityConfig.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\model\User.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\controller\ShoppingCartController.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\model\Item.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\service\UserService.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\repository\ItemRepository.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\repository\CartItemRepository.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\dto\RegisterRequest.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\controller\UserController.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\model\CartItem.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\model\ShoppingCart.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\service\ShoppingCartService.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\ShoppingCartApplication.java
+C:\Users\yuze1\OneDrive\Documents\spring boot\ShoppingCartSystem\backend\src\main\java\com\example\shoppingcart\repository\UserRepository.java

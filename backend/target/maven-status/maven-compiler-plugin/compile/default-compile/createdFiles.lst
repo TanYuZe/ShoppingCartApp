@@ -1,0 +1,16 @@
+com\example\shoppingcart\model\ShoppingCart.class
+com\example\shoppingcart\model\User.class
+com\example\shoppingcart\repository\ShoppingCartRepository.class
+com\example\shoppingcart\config\SecurityConfig.class
+com\example\shoppingcart\service\ShoppingCartService.class
+com\example\shoppingcart\model\Item.class
+com\example\shoppingcart\dto\RegisterRequest.class
+com\example\shoppingcart\repository\UserRepository.class
+com\example\shoppingcart\dto\LoginRequest.class
+com\example\shoppingcart\service\UserService.class
+com\example\shoppingcart\controller\ShoppingCartController.class
+com\example\shoppingcart\model\CartItem.class
+com\example\shoppingcart\repository\CartItemRepository.class
+com\example\shoppingcart\repository\ItemRepository.class
+com\example\shoppingcart\ShoppingCartApplication.class
+com\example\shoppingcart\controller\UserController.class
